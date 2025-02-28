@@ -1,0 +1,29 @@
+{
+  "name": "ethiopian-salary-incom-tax-calculator",
+  "version": "1.0.0",
+  "description": "Salary Income Tax Calculation in Ethiopia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyobbaye/ethiopian-salary-incom-tax-calculator.git"
+  },
+  "keywords": [
+    "ethiopian",
+    "salary",
+    "calaculator",
+    "tax",
+    "pension",
+    "tax",
+    "calculator",
+    "ethiopia"
+  ],
+  "author": "Eyob Baye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyobbaye/ethiopian-salary-incom-tax-calculator/issues"
+  },
+  "homepage": "https://github.com/eyobbaye/ethiopian-salary-incom-tax-calculator#readme"
+}
