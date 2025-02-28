@@ -40,7 +40,7 @@ salaryIncomeTax = Math.floor(taxRate - deduction);
 employeePensiton = Math.floor(grosSalary * 0.07);
 companyPensiton = Math.floor(grosSalary * 0.11);
 netIncome = grosSalary - salaryIncomeTax - employeePensiton;
-if (grosSalary >= 600) {
+if (grosSalary >= 601) {
   console.log(
     `taxRate: ${taxRate}, deduction: ${deduction}, salaryIncomeTax: ${salaryIncomeTax}, employeePensiton: ${employeePensiton}, companyPenstion: ${companyPensiton}, netIncome: ${netIncome}`
   );

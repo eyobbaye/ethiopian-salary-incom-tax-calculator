@@ -2,7 +2,7 @@
   "name": "ethiopian-salary-incom-tax-calculator",
   "version": "1.0.0",
   "description": "Salary Income Tax Calculation in Ethiopia",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
